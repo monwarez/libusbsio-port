@@ -1,0 +1,5 @@
+%%PYTHON_SITELIBDIR%%/libusbsio/__init__.py
+%%PYTHON_SITELIBDIR%%/libusbsio/__main__.py
+%%PYTHON_SITELIBDIR%%/libusbsio/bin/freebsd_amd64/libusbsio.a
+%%PYTHON_SITELIBDIR%%/libusbsio/bin/freebsd_amd64/libusbsio.so
+%%PYTHON_SITELIBDIR%%/libusbsio/libusbsio.py
